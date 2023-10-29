@@ -1,0 +1,15 @@
+ 
+  form {
+    text-align: center;
+    width: 500px;
+    margin: 10px auto;
+  }
+  
+  input {
+    margin-bottom: 20px;
+  }
+  
+  input[type="button"] {
+    margin-right: 10px;
+  }
+  
